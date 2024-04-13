@@ -4,8 +4,6 @@ https://isyy-phone.com/
 
 
 
-Installation
-
 Install the project dependencies using npm:
 ```
 npm install
